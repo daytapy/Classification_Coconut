@@ -1,0 +1,8 @@
+pandas
+numpy
+random
+os
+re
+open-cv
+scikit-image
+scikit-learn
